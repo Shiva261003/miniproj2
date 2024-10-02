@@ -20,7 +20,7 @@ html_temp = """
 # """)
 # st.markdown(html_temp.format("rgba(55, 53, 47, 0.16)"),unsafe_allow_html=True)
 st.markdown("""
-    ## Text data extractor: PDF to Text
+    ## TextTranscribe: PDF to Text
     
 """)
 languages = {
